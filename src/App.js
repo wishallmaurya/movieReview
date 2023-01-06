@@ -15,6 +15,7 @@ function App() {
               Year={element.Year}
               Runtime={element.Runtime}
               Poster={element.Poster}
+              Link={element.Link}
             />
           );
         })}
